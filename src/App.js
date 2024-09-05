@@ -1,4 +1,3 @@
-// App.js
 import React from 'react';
 import styled from 'styled-components';
 import Tabs from './components/Tabs';
